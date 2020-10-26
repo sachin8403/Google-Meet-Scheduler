@@ -16,6 +16,9 @@ let password = "";
 let head = true;
 let strict = true;
 
+//Sachin Suggest
+obj  new Googlescheduler
+
 obj = new GoogleMeet(email, password, head, strict);
 
 // cache store
